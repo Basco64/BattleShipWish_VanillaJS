@@ -135,7 +135,7 @@ addEventListener("click", function (event) {
 
         setTimeout(function () {
           imageExplo(timer - 1);
-        }, 50);
+        }, 25);
       }
     }
   }
